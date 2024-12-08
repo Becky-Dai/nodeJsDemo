@@ -1,7 +1,9 @@
 # This is a simple lab of node.js. And the express lab in the expressDemo.zip
 # (node.js crash course and express crash coursh by Traversy Media).
 这个是适合初学者的教学实验，用的是油管教学博主的code.
-link：https://www.youtube.com/watch?v=32M1al-Y6Ag
+link1：https://www.youtube.com/watch?v=32M1al-Y6Ag
+link2: https://www.youtube.com/watch?v=CnH3kAXSrmU&t=2620s
+
 
 Introduction and Overview
 
