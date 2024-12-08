@@ -1,4 +1,5 @@
-# This is a simple lab of node.js. ( node.js crash course by Traversy Media)
+# This is a simple lab of node.js. And the express lab in the expressDemo.zip
+# (node.js crash course and express crash coursh by Traversy Media).
 这个是适合初学者的教学实验，用的是油管教学博主的code.
 link：https://www.youtube.com/watch?v=32M1al-Y6Ag
 
@@ -125,3 +126,93 @@ URL 模块：解析和处理 URL。
 进程对象
 
 探索 process 对象，了解运行时信息和控制方法。
+
+in the expressDeome.zip:
+Basic Concepts
+
+What is Express.js: A web application framework for Node.js.
+Opinionated vs. Unopinionated: Understanding the flexibility of the framework.
+Environment Setup
+
+Prerequisites: Knowledge of Node.js and basic JavaScript.
+Setting up the environment: Installing Express and dependencies.
+Core Features
+
+Building a basic server: Quickly start a web application.
+Serving static files: Host HTML, CSS, and JavaScript files.
+Sending files with res.sendFile().
+Requests and Responses
+
+Handling JSON data.
+Testing APIs with Postman.
+Extracting route parameters using req.params.
+Handling query strings with req.query.
+Setting response status codes.
+Routing and Modularization
+
+Organizing routes in separate files.
+Using ES Modules for cleaner code structure.
+HTTP Methods
+
+Implementing GET, POST, PUT, and DELETE.
+Accessing request data through req.body.
+Middleware and Error Handling
+
+Using built-in and custom middleware.
+Implementing global error-handling middleware.
+Advanced Features
+
+Utilizing environment variables (.env files).
+Interacting between frontend and backend.
+Submitting forms to APIs.
+Enhancing debugging with the Colors package.
+EJS Template Engine
+
+Setting up EJS for dynamic HTML rendering.
+Passing data to views and looping through arrays.
+Using template partials for reusable components.
+基础概念
+
+什么是 Express.js：Node.js 的 Web 应用框架。
+"Opinionated vs Unopinionated"：框架的灵活性比较。
+环境准备
+
+必要的知识：Node.js、JavaScript 基础。
+设置开发环境：安装 Express 和依赖。
+核心功能
+
+创建基本服务器：快速启动 Web 应用程序。
+设置静态文件服务器：提供 HTML/CSS/JS 文件。
+使用 res.sendFile() 方法发送文件。
+请求与响应
+
+处理 JSON 数据。
+通过 Postman 测试 API。
+使用 req.params 获取路径参数。
+使用 req.query 处理查询字符串。
+设置响应状态码。
+路由与模块化
+
+将路由拆分到单独的文件。
+使用 ES Modules 更清晰的代码组织。
+请求方法
+
+GET、POST、PUT、DELETE 的实现。
+通过 req.body 获取请求数据。
+中间件与错误处理
+
+内置与自定义中间件的使用。
+处理错误的全局中间件。
+高级功能
+
+使用环境变量（.env 文件）。
+前端与后端的请求交互。
+提交表单到 API。
+使用 Colors 包改善调试输出。
+EJS 模板引擎
+
+设置 EJS 模板引擎。
+将数据传递到视图。
+遍历数组并生成动态内容。
+使用模板部分（Partials）提高代码复用。
+
